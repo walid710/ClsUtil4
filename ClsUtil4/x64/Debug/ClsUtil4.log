@@ -1,0 +1,194 @@
+﻿  ClsUtil4.cpp
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1740,17): warning C4091: 'static ': ignored on left of 'ClsUtil1::enPrimeNotPrime' when no variable is declared
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(850,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(888,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(889,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(911,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(912,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(928,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(929,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(945,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(946,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(966,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(967,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(985,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(989,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1286,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1522,20): warning C4305: 'return': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1526,21): warning C4305: 'return': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1530,21): warning C4305: 'return': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1534,21): warning C4305: 'return': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1543,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1549,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1578,151): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1579,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1585,160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1652,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1653,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1716,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1717,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1735,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1743,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1775,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1776,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1790,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1791,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1796,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1827,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1828,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1829,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1830,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1878,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1880,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1882,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(1985,23): warning C4101: 'MonthOfYear': unreferenced local variable
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(2063,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(2064,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(2076,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil1.h(2077,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(704,17): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(157,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(898,13): warning C4101: 'arr2': unreferenced local variable
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(925,13): warning C4101: 'arr2': unreferenced local variable
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(1328,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil2.h(1345,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(871,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1041,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1074,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1109,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1159,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1271,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil3.h(1275,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil4.h(151,23): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil4.h(152,23): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil4.h(185,23): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+D:\Classes in C++\ClsUtil4\ClsUtil4.h(186,23): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ClsUtil4.cpp')
+  
+  ClsUtil4.vcxproj -> D:\Classes in C++\ClsUtil4\x64\Debug\ClsUtil4.exe

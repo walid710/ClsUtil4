@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ClsUtil4\\x64\\Debug\\ClsUtil3.obj",
+            "outputs": [
+                "ClsUtil4\\x64\\Debug\\ClsUtil3.h.obj.dt.module.json",
+                "ClsUtil4\\x64\\Debug\\ClsUtil3.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

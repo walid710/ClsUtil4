@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ClsUtil4\\x64\\Debug\\xstring.obj",
+            "outputs": [
+                "ClsUtil4\\x64\\Debug\\xstring.obj.dt.module.json",
+                "ClsUtil4\\x64\\Debug\\xstring.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
